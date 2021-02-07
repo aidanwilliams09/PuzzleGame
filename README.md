@@ -14,4 +14,4 @@ BFS, DFS, UCS, and IDS graph search algorithms to solve a 6 Tile Puzzle Game.
   
 # Contributors
 
-Aidan Williams
+* Aidan Williams
