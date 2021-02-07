@@ -12,3 +12,6 @@ BFS, DFS, UCS, and IDS graph search algorithms to solve a 6 Tile Puzzle Game.
 5. Board size can be changed by changing the ***board_size*** attribute in `Board`
   * Note: If ***board_size*** changes the total number of elements, remember to change the amount of tiles in the list you pass to the `State` object in solver.py
   
+# Contributors
+
+Aidan Williams
